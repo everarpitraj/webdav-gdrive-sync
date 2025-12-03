@@ -1,0 +1,6 @@
+# WebDAV Sync Requirements
+webdavclient3>=3.14.6
+ipywidgets>=8.1.0
+
+# Optional: For enhanced features
+# tqdm>=4.65.0  # Alternative progress bars
