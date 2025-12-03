@@ -1,7 +1,6 @@
 # ☁️ WebDAV ⇄ ♻️ GDrive Sync
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/everarpitraj/webdav-gdrive-sync/blob/main/WebDAV_Sync.ipynb](https://colab.research.google.com/drive/10XApHmm2s2f3EEBdHWairLHIigmBdM6p?usp=sharing))
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/everarpitraj/webdav-gdrive-sync/blob/main/WebDAV_Sync.ipynb)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 A secure Google Colab notebook for syncing files from any WebDAV cloud storage to Google Drive using Rclone with a dark-themed interactive file browser.
